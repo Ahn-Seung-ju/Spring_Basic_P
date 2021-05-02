@@ -16,6 +16,7 @@ public class ProtocolHandlerFactory_P {
 	
 	public void handlers_length() {
 		System.out.println(handlers.size());
+		System.out.println("야 이거 큰일 났네");
 	}
 	
 }
