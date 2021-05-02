@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.16.202103111701-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/DI_Spring02/DI_02_Spring_P.xml</config>
+		<config>src/DI_Spring03/DI_03_Spring_P.xml</config>
+		<config>src/DI_Spring04/DI_04_Spring_P.xml</config>
+		<config>src/DI_Spring05/DI_05_Spring_P.xml</config>
+		<config>src/DI_Spring06/DI_06_Spring_P.xml</config>
+		<config>src/DI_Spring07/DI_07_Spring_P.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
